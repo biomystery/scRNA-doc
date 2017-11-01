@@ -1,0 +1,14 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": ["mathjax"],
+    "pluginsConfig": {
+        "theme-default": {
+             "showLevel": true
+        }
+    },    
+    "links": {
+        "sidebar": {
+            "Contact us / Support": "https://healthsciences.ucsd.edu/som/cmm/research/epigenomics/About/Pages/Contact-Us.aspx"
+        }
+    }
+}
