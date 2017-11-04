@@ -21,8 +21,8 @@
    * additional filtering the expression matrix 
 	 * Nuclei should be: >= 200 detected genes and >=10,000 usable reads 
 	   * cut-off is cell-type dependent 
-	   * detected gene: >= 2 unique UMIs 
-	 * genes were detected >=10 nuclei (keep) 
+	   * **detected gene**: >= 2 unique UMIs 
+	 *  genes were detected >=10 nuclei (keep) 
    * QC experiments have **different gene-detection thresholds**
 
 ## Ref
