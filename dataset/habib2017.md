@@ -19,12 +19,14 @@ Time-stamp: "2017-11-08 10:52:14"
      3. Mouse_Processed_GTEx_Data.DGE.log-UMI-Counts.txt.gz	
      4. 20 fastq.gz files
 3. GEO: (*no human raw Wed Nov 08 10:48:28 PST 2017*)
-   * [mouse@GSE104525](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104525) - new, 2017-10-06
+   * [mouse@GSE104525](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104525) - *new, 2017-10-06*
      * [GSE104525_Mouse_Processed_GTEx_Data.DGE.UMI-Counts.txt.gz](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE104525&format=file&file=GSE104525%5FMouse%5FProcessed%5FGTEx%5FData%2EDGE%2EUMI%2DCounts%2Etxt%2Egz)
      * 10 samples (fastq.gz) 
      * 4 mouse brain tissue on two different brain regions 
-   * [mouse@GSE85721](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85721) - old, 2016-08-16
+   * [mouse@GSE85721](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85721) - *old, 2016-08-16*
+
 No Diff in umi counts file  between human@GTEx with human@sc_protal. 
+
 ## Data list 
 1. 1710 cells from  2 replicates from 3T3 cell (by Drop-seq)
 2. 5636 3T3 nuclei (6 replicates) 
