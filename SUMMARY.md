@@ -1,6 +1,7 @@
 # Summary
 * [Preface](README.md)
 * [Basics](./basics/overview.md)
+  * [platform](./basics/platform.md)
 * [Preprocess](./preprocess/overview.md)
 * [QC](./qc/overview.md)
 * [Analysis](./analysis/overview.md)
